@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jason Chen"
+title                    : "Jason Jiaxing Chen"
 title_separator          : "-"
 name                     : &name "Jason Chen"
 description              : &description "6th Year PhD Student"
