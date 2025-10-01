@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)](/assets/Chen_Jason_CV_2025.pdf)
+[Download my CV (PDF)](/assets/cv_new.pdf)
