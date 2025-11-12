@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)](/assets/cv_new.pdf)
+[Download my CV (PDF)](/assets/cv_new1.pdf)
