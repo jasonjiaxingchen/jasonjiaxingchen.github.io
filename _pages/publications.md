@@ -12,4 +12,6 @@ Doctor shortages are a widespread and growing concern in the healthcare systems 
 
 **Works in progress:**
 
+Medical School Entry and the Doctor Labor Market
+
 Congestion and Demand for College Majors
