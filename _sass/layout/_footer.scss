@@ -14,7 +14,7 @@
     text-transform: uppercase;
   }
 
-  li + li:before {
+  li + li::before {
     content: "";
     padding-right: 5px;
   }
@@ -31,6 +31,7 @@
   }
 }
 
+/* Hide the entire footer */
 .page__footer {
   display: none !important;
 }
